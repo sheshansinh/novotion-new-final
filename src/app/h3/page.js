@@ -28,12 +28,9 @@ export default function Home() {
     <>
       <NovotionNavbar/>
       
-      <NovotionHero />
-      {/* <NovotionHero1 /> */}
-      {/* <NovotionHero2 /> */}
-      {/* <NovotionHero3 /> */}
-      {/* <NovotionHero4 /> */}
-      {/* <NovotionHero5 /> */}
+   
+      <NovotionHero3 />
+
 
       <NovotionAbout/>
   
